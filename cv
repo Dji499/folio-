@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>CV Djibril Kayat</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="cv-container">
+    <aside class="sidebar">
+      <h1>KAYAT<br><span>DJiBRiL</span></h1>
+      <section class="contact">
+        <p>07 69 42 65 28</p>
+        <p>djibril.kayat@gmail.com</p>
+        <p>1 rue marc bloch</p>
+        <p>Date de naissance : 21/12/2004</p>
+      </section>
+      <section class="parcours">
+        <h2>PARCOURS</h2>
+        <p><strong>2022-2024</strong><br>LYCÉE NEWTON<br>BAC pro système numérique<br>Mention assez bien</p>
+        <p><strong>2024-2025</strong><br>LYCÉE PARC VILGÉNIS<br>BTS SIO : 1ère Année</p>
+        <p>Date de stage : 02/06/2025 au 04/07/2025</p>
+      </section>
+      <section class="competence">
+        <h2>COMPÉTENCE</h2>
+        <ul>
+          <li>Système informatique</li>
+          <li>Appareillages électroniques</li>
+          <li>Multimédia</li>
+          <li>Réseau</li>
+          <li>HTML CSS</li>
+        </ul>
+      </section>
+      <section class="langue">
+        <h2>LANGUE</h2>
+        <p>Anglais</p>
+        <p>Français</p>
+      </section>
+    </aside>
+
+    <main class="content">
+      <section class="profile">
+        <h2>PROFILE</h2>
+        <p>Je suis passionné par l’informatique et je suis surtout intéressé par le réseau dont je suis curieux. De plus mes qualités sont que je suis poli et à l’écoute.</p>
+      </section>
+      <section class="experience">
+        <h2>EXPÉRIENCE PROFESSIONNELLE</h2>
+        <div class="experience-item">
+          <h3>Système numérique – Lycée Newton (2023)</h3>
+          <p>HTML, CSS, caméras (HDMI), routeurs, commutateurs, réseau, courants porteurs en ligne...</p>
+        </div>
+        <div class="experience-item">
+          <h3>Stage – Amp Visual TV (2024)</h3>
+          <p>VirtualBox, systèmes d’exploitation Windows et Linux, BIOS et UEFI.</p>
+        </div>
+        <div class="experience-item">
+          <h3>BTS SIO – Lycée Parc Vilgénis (2024-2025)</h3>
+          <p>Actuellement en cours d’amélioration, motivé pour apprendre le HTML, réseau, informatique en général...</p>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
